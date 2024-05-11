@@ -6,3 +6,6 @@ Diretório com os desafios propostos no Bootcamp Santander 2024 - Backend com Ja
 
 - `ContaBanco`: Simulando Uma Conta Bancária Através Do Terminal/Console.
   - src/ContaTerminal.java
+- `DesafioControleFluxo`
+  - src/Contador.java
+  - src/ParametrosInvalidosException.java
