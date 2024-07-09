@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot App",
+      "request": "launch",
+      "mainClass": "dio.bootcamp.api_nuvem.ApiNuvemApplication",
+      "envFile": "C:/Users/gabri/OneDrive/Área de Trabalho/java-be-bootcamp/Desafios/DesafioNuvem/api-nuvem/.env",
+      "args": []
+    }
+  ]
+}
