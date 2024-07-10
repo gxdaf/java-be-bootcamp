@@ -13,3 +13,5 @@ Diretório com os desafios propostos no Bootcamp Santander 2024 - Backend com Ja
   - src/Conta.java
   - src/Cliente.java
   - src/Banco.java
+- `DiagramaiPhone`: Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
+- `DesafioPadroesProjeto`: Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework
